@@ -4,7 +4,7 @@ Anomalik is a professional anomaly detection project that leverages machine lear
 
  Project Overview
 
-This project addresses the critical problem of **credit card fraud detection** using the [Kaggle Credit Card Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud). It includes three different models:
+This project addresses the critical problem of **credit card fraud detection** using the [Kaggle Credit Card Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud). It evaulated with three different models:
 
  **Isolation Forest** – unsupervised anomaly detection  
  **Autoencoder (Neural Network)** – deep learning-based anomaly detection  
